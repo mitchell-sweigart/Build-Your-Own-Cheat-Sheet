@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia;
+}
+
+header {
+    text-align: center;
+    color: ;
+}
+
+table th {
+    color: burlywood;
+    background-color: dimgray;
+}
+
+table td {
+    border-bottom: 1px solid burlywood;
+}
+
+table {
+    border: 1px solid darkviolet;
+}
